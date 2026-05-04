@@ -1,5 +1,6 @@
 # create-wagmi
 
+
 ## Overview
 
 create-wagmi is a command line interface (CLI) for scaffolding new Wagmi projects.
